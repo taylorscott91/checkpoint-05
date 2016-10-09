@@ -1,24 +1,35 @@
-# README
+# Checkpoint 04
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Part One (Initial Setup)
 
-Things you may want to cover:
+Fork and clone this repository. `cd` into this directory and:
 
-* Ruby version
+1. create the database
+2. run the migrations
+3. seed the database
 
-* System dependencies
+Commit.
 
-* Configuration
+## Part Two (View in Browser)
 
-* Database creation
+### Create a cars controller
 
-* Database initialization
+Create a cars controller class that inherits from `ApplicationController`
 
-* How to run the test suite
+It should have one method - `index`
 
-* Services (job queues, cache servers, search engines, etc.)
+Inside the index method, create a `cars` instance variable that finds all
+the cars in the database.
 
-* Deployment instructions
+### Create a cars index view
 
-* ...
+Create an `index.html.erb` view. Inside this file, loop through each of
+the cars and print each attribute.
+
+## Part Three (Associations)
+
+Create a migration to create a new table for `Trips`.
+
+The `trips` table has three columns: `start`, `end`, `miles`
+
+Add to the existing seed file to create new trips and associate the existing cars.
