@@ -1,4 +1,16 @@
-# Checkpoint 04
+# Checkpoint 05
+
+This morning, you will have the option of choosing a review session or a pratice exercise.
+
+The review session will go over basic CRUD for a single model rails app. The practice exercise
+will ask you to build out a two-model CRUD app with bonuses.
+
+If you feel uneasy about the following bullets, please stick around for the review.
+Otherwise, please work on the exercise linked in the schedule with a partner.
+
+- This checkpoint
+- getting started with rails homework
+- rails lessons up until this point
 
 ## Part 1 (Initial Setup)
 
