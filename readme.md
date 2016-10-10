@@ -9,6 +9,7 @@ If you feel uneasy about the following bullets, please stick around for the revi
 Otherwise, please work on the exercise linked in the schedule with a partner.
 
 - This checkpoint
+- This checkpoint's part 4
 - getting started with rails homework
 - rails lessons up until this point
 
