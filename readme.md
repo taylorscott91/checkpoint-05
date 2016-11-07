@@ -1,9 +1,10 @@
 # Checkpoint 05
 
 ## Part 1 (Initial Setup)
+We've created a new rails app with a single model called `Posts` in this repository.
 
-1. Generate a new rails app for a single model called `Posts`.
-1. Create your own `Posts` data with body and author fields.
+1. Fork and clone this repo.
+1. Create your own `Posts` seed data with body and author fields.
 1. Seed your database.
 1. Run your rails server to see your app in the browser.
 
@@ -11,7 +12,7 @@
 
 1. Set up routes for `index`, `show` and `new`.
 1. Implement controller actions and views for the `index`, `show` and `new` features.
-1. Push your code up to your own repo and submit as an issue to this checkpoint repo.
+
 
 ***Bonus***
 
