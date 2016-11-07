@@ -10,7 +10,7 @@
 ## Part 2 (Error Driven Development)
 
 1. Set up routes for `index`, `show` and `new`.
-1. Through error driven development, implement controller actions and views for the `index`, `show` and `new` features.
+1. Implement controller actions and views for the `index`, `show` and `new` features.
 1. Push your code up to your own repo and submit as an issue to this checkpoint repo.
 
 ***Bonus***
