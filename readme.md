@@ -4,7 +4,7 @@
 
 1. Fork and clone this repo.
 1. Run the command to generate a new Rails application.
-1. Add a single model to you application.
+1. Add a single model to your application.
 1. Create and edit your database table. Include at least two fields.
 1. Create seed data.
 1. Seed your database.
