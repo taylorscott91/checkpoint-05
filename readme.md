@@ -4,7 +4,7 @@
 
 ## Part 1 (Initial Setup)
 
-1. Run the command to generate a new Rails application.
+1. Run the command to generate a new Rails application called `todo_app`.
 1. Create your database.  
 1. Define a `Todo` model and create a corresponding migration. It should have two attributes: `content` (string) and `is_completed` (boolean).
 1. Generate your schema.
