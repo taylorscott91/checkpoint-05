@@ -4,7 +4,7 @@
 
 1. Fork and clone this repo.
 1. Run the CLI command to generate a new Rails application.
-1.Add a single model `Todo` to your application with two attributes: `content` (string) and `is_completed` (boolean).
+1. Add a single model `Todo` to your application with two attributes: `content` (string) and `is_completed` (boolean).
 1. Create and edit your database table.
 1. Create seed data with two instances.
 1. Seed your database.
